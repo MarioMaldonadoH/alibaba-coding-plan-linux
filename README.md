@@ -49,16 +49,12 @@ alibaba
 
 ## Obtener API Key
 
-1. Ve a https://bailian.console.aliyun.com/
-2. Suscribete a Coding Plan (Lite $3 o Pro $15)
-3. Genera tu API Key (formato `sk-sp-xxxxx`)
+Suscribete a Alibaba Cloud Coding Plan con beneficio de referido:
 
-## Cuotas del Plan
-
-| Plan | Precio | Requests/mes |
-| :--- | :--- | :--- |
-| **Lite** | $3 | 18,000 |
-| **Pro** | $15 | 90,000 |
+| Plan | Precio | Requests/mes | Link |
+| :--- | :--- | :--- | :--- |
+| **Lite** | $3 | 18,000 | [Suscribirse](https://www.alibabacloud.com/campaign/benefits?referral_code=A92LUF) |
+| **Pro** | $15 | 90,000 | [Suscribirse](https://www.alibabacloud.com/campaign/benefits?referral_code=A92LUF) |
 
 ## Licencia
 
